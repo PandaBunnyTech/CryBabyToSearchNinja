@@ -9,7 +9,7 @@ http://pandabunnytech.com/internet-search-from-a-cry-baby-to-internet-search-nin
 # Search Ninja's Site List
 Web site |	Usage
 -------- | --------
-translate.google.com | If your have trouble rephrasing. Use this to translate from your mother tongue to English.
+translate.google.com | If you have trouble rephrasing. Use this to translate from your mother tongue to English.
 youtube.com  |	Videos. Duh !
 wikipedia.com  | 	A free encyclopedia. Use this to verify websites URL when you are not sure.
 github.com/search | Open source projects with code. Awesome lists.
