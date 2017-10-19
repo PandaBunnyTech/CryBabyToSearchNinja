@@ -4,7 +4,7 @@ Internet Search: from a Cry Baby to Internet Search Ninja (Companion Repo)
 # Article:
 This is the location of the main article published at the PandaBunnyTech.com website
 
-http://pandabunnytech.com/internet-search-from-a-cry-baby-to-internet-search-ninja
+[How to improve Google search results](http://pandabunnytech.com/how-to-improve-google-search-results/)
 
 # Search Ninja's Site List
 Web site |	Usage
